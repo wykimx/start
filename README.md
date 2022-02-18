@@ -27,10 +27,12 @@ github study and traning
 4. AWS_Developer Associate
    - udemy 강의
    - AWS Associate 덤프
-> 응시료지원 자격증
->   - CKAD_Certified Kubernetes Application Developer
->    - AWS_Developer Associate
->    - SQLD
+````
+응시료지원 자격증
+  - CKAD_Certified Kubernetes Application Developer
+  - AWS_Developer Associate
+  - SQLD
+````
 
 -----------------------
 ## markdown
