@@ -19,7 +19,7 @@ github study and traning
 ### 인강
 1. 스프링
 2. JPA
-  - JPA, Spring Data JPA, querydsl
+    - JPA, Spring Data JPA, querydsl
 
 ### 책
 
