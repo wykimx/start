@@ -1,16 +1,6 @@
 # start
 github study and traning
 
-
-### 자격증(응시료지원)
-- CKAD_Certified Kubernetes Application Developer
-  - udemy 강의
-- AWS_Developer Associate
-  - udemy 강의
-  - AWS Associate 덤프
-- SQLD
-  - 문제집
-
 ### 공부
 - 인강, 책으로 시작
 - 이 문서를 작성하면서 markdown 작성요령 학습
@@ -31,12 +21,16 @@ github study and traning
 #### 자격증
 1. 정처기 3월 필기, 5월 실기
 2. SQLD 5월
-  - 문제집
+    - 문제집
 3. CKAD_Certified Kubernetes Application Developer
-  - udemy 강의
+    - udemy 강의
 4. AWS_Developer Associate
-  - udemy 강의
-  - AWS Associate 덤프
+   - udemy 강의
+   - AWS Associate 덤프
+> 응시료지원 자격증
+>   - CKAD_Certified Kubernetes Application Developer
+>    - AWS_Developer Associate
+>    - SQLD
 
 -----------------------
 ## markdown
