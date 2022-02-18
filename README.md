@@ -32,9 +32,9 @@ github study and traning
 1. 정처기 3월 필기, 5월 실기
 2. SQLD 5월
     - 문제집
-3 CKAD_Certified Kubernetes Application Developer
+3. CKAD_Certified Kubernetes Application Developer
     - udemy 강의
-4 AWS_Developer Associate
+4. AWS_Developer Associate
     - udemy 강의
     - AWS Associate 덤프
 
